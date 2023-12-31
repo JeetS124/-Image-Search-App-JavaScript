@@ -1,1 +1,1 @@
-# -Image-Search-App-JavaScript
+# Image-Search-App-JavaScript
